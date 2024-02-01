@@ -7,7 +7,7 @@ The MINI lab at [Weill Medical College of Cornell University](https://weill.corn
 
 {%
   include figure.html
-  image="images/full_lab_logo.jpg"
+  image="images/full_lab_logo.png"
   caption="The MINI lab @ WCM"
   link="projects"
   width="100%"
