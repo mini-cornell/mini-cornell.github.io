@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: mini-cornell
+title: Machine Intelligence in Neuroimaging
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: MINI @ Weill Cornell Medicine
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@mini-cornell.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: qiz4006@med.cornell.edu
+  orcid: 0000-0002-6368-0889
+  google-scholar: yHpHM34AAAAJ
   github: mini-cornell
-  twitter: mini-cornell
-  youtube: mini-cornell
+  twitter: QingyuZhaoWCM
 
 ### jekyll settings
 
