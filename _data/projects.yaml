@@ -1,47 +1,35 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Forbes
+  subtitle: Rebecca Coffey, Nov 2021
+  group: media
+  image: https://imageio.forbes.com/specials-images/imageserve/6195846ba0e3b90bbd959298/Depression-in-emerging-adults/960x0.jpg?format=jpg&width=1440
+  link: https://www.forbes.com/sites/rebeccacoffey/2021/11/18/the-risk-of-depression-in-emerging-adults-suddenly-tripled-during-covid-19-and-young-women-are-particularly-vulnerable/?sh=1fa44a8011fa
+  description: The Risk Of Depression In Emerging Adults Suddenly Tripled During COVID-19, And Young Women Are Particularly Vulnerable
   tags:
-    - resource
+    - media
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Healio
+  subtitle: Joe Gramigna, Jan 2021
+  group: media
+  image: https://www.healio.com/~/media/slack-news/stock-images/cardiology/a/alcohol_twitter.webp?w=476
+  link: https://www.healio.com/news/psychiatry/20210104/heavy-alcohol-consumption-produces-deleterious-effects-on-adolescents-white-matter
+  description: Heavy alcohol consumption produces deleterious effects on adolescents white matter
   tags:
-    - resource
+    - media
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Medscape
+  subtitle: Pauline Anderson, Jan 2021
+  image: https://img.medscapestatic.com/pi/logos/mscp-logo.png
+  link: https://www.medscape.com/viewarticle/943786
+  description: Heavy Drinking by Teens May Affect WhiteMatter Integrity
   tags:
-    - resource
-    - publication
+    - media
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: Towards Data Science
+  subtitle: Max Reynolds, Jun 2022
+  image: https://miro.medium.com/v2/resize:fit:1400/format:webp/0*jtK3GSoCB78fKYwa
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Longitudinal Self-Supervised Learning
   tags:
-    - software
+    - post
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
