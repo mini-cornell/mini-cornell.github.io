@@ -12,7 +12,7 @@ We have positions for posdtocs and research students. Please reach out if intere
 {%
   include button.html
   type="email"
-  text="qiz4006@med.cornell.edu"
+  text="email"
   link="qiz4006@med.cornell.edu"
 %}
 {%
