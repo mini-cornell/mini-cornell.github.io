@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We have positions for posdtoc and research students. Please reach out
+We have positions for posdtocs and research students. Please reach out if interested!
 
 {%
   include button.html
