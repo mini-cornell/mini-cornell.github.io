@@ -1,5 +1,5 @@
 ---
 name: Bahram Jafrasteh
-image: images/photo.jpg
+image: images/bahram_jafrasteh.jpg
 role: postdoc
 ---
