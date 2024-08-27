@@ -1,5 +1,5 @@
 ---
 name: Yimin Luo
-image: images/photo.jpg
+image: images/yimin_luo.jpeg
 role: postdoc
 ---
