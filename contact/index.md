@@ -18,7 +18,7 @@ Please send a resume, bibliography, and a brief description of research interest
 {%
   include button.html
   type="email"
-  text="email"
+  text="Email"
   link="qiz4006@med.cornell.edu"
 %}
 {%
