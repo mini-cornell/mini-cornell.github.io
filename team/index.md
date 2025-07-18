@@ -7,10 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+<!-- Current team members -->
+## Principal Investigator
+{% include list.html data="members" component="portrait" filters="role: pi,alumni:false" %}
 <br><br>
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+## Postdoctoral Fellows
+{% include list.html data="members" component="portrait" filters="role: postdoc,alumni:false" %}
 <br><br>
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+
+## PhD Students
+{% include list.html data="members" component="portrait" filters="role: phd,alumni:false" %}
 <br><br>
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+## Undergraduate Students
+{% include list.html data="members" component="portrait" filters="role: undergrad,alumni:false" %}
+<br><br>
+
+---
+
+<!-- Alumni section -->
+## Alumni
+{% include list.html data="members" component="portrait" filters="alumni:true" %}
