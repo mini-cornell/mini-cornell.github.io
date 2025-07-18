@@ -2,6 +2,7 @@
 name: Qingyu Zhao
 image: images/qingyu_zhao.jpg
 role: pi
+alumni: false
 links:
   email: qiz4006@med.cornell.edu
   orcid: 0000-0002-6368-0889
