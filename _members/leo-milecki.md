@@ -2,6 +2,7 @@
 name: Léo Milecki
 image: images/leo_milecki.jpg
 role: postdoc
+alumni: true
 links:
   email: lem4012@med.cornell.edu
 ---
