@@ -2,6 +2,7 @@
 name: Robby Wang
 image: images/robby_wang.jpg
 role: phd
+alumni: false
 links:
   email: ywang08@rockefeller.edu
 ---
