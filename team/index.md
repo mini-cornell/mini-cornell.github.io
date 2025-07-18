@@ -20,7 +20,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: undergrad,alumni:false" %}
 <br><br>
 
----
 
 <!-- Alumni section -->
 ## Alumni
