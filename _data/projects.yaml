@@ -1,3 +1,12 @@
+- title: Newswise
+  subtitle: Research Society on Alcohol, Jun 2025
+  group: media
+  image: https://www.newswise.com/legacy/image.php?image=/images/institutions/logos/RSA%20logo20250625102469.jpg&width=320&height=100
+  link: https://www.newswise.com/articles/researchers-identify-adolescent-pathways-of-problematic-drinking-during-adolescence
+  description: Researchers identify adolescent pathways of problematic drinking during adolescence
+  tags:
+    - media
+    
 - title: Biological Psychiatry Global Open Science 
   subtitle: Volume 5, Issue 1, January 2025
   group: commentary
