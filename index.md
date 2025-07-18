@@ -17,11 +17,20 @@ title: Home
 .lab-image img {
   width: 100%;
   border-radius: 8px;
-  margin-top: 1em; /* Adjust vertical alignment */
 }
 .lab-text {
   flex: 1;
   min-width: 300px;
+}
+.logo-section {
+  text-align: center;
+  margin: 60px 0;
+}
+.logo-section img {
+  max-width: 150px;  /* Shrink width here */
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 </style>
 
@@ -30,14 +39,13 @@ title: Home
 
 The MINI Lab at Weill Cornell Medical College leverages artificial intelligence to accelerate neuroimaging research. We focus on developing novel machine learning methods to analyze longitudinal and multi-modal neuroimaging, neuropsychological, and clinical data, aiming to uncover brain–behavior relationships and identify biomedical phenotypes of neurological and psychiatric conditions.
 
-<!-- Dashed line separator -->
+<!-- Full-width dashed separator -->
 <hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
 
+<!-- Full-width section heading -->
 ### Research Interests
 
-We are broadly interested in the intersection between AI and preclinical/clinical imaging applications. Some of our specific interests are:
-
-<!-- Two-column layout for image + research interests -->
+<!-- Two-column layout starts here -->
 <div class="lab-container">
   <div class="lab-image">
     <img src="images/research.png" alt="Research image">
@@ -45,6 +53,7 @@ We are broadly interested in the intersection between AI and preclinical/clinica
 
   <div class="lab-text" markdown="1">
 
+We are interested in:
 
 1. **Designing cutting-edge AI/ML techniques**, such as self-supervised learning, foundation models, graph-based models, and unbiased learning, for neuroimaging-based analysis.  
 2. **Characterizing normative brain development** from childhood through emerging adulthood, as well as aging trajectories, using longitudinal, data-driven, multi-modal approaches.  
@@ -52,10 +61,6 @@ We are broadly interested in the intersection between AI and preclinical/clinica
 
   </div>
 </div>
-
-<!-- Dashed line separator -->
-<hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
-
 
 <!-- Third section: Centered logo -->
 <div class="logo-section">
