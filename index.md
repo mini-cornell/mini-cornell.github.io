@@ -27,7 +27,7 @@ title: Home
   margin: 60px 0;
 }
 .logo-section img {
-  max-width: 150px;  /* Shrink width here */
+  max-width: 300px;  /* Shrink width here */
   width: 100%;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -61,6 +61,9 @@ We are interested in:
 
   </div>
 </div>
+
+<!-- Full-width dashed separator -->
+<hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
 
 <!-- Third section: Centered logo -->
 <div class="logo-section">
