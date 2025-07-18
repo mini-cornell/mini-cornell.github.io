@@ -33,6 +33,10 @@ The MINI Lab at Weill Cornell Medical College leverages artificial intelligence 
 <!-- Dashed line separator -->
 <hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
 
+### Research Interests
+
+We are broadly interested in the intersection between AI and preclinical/clinical imaging applications. Some of our specific interests are:
+
 <!-- Two-column layout for image + research interests -->
 <div class="lab-container">
   <div class="lab-image">
@@ -41,13 +45,19 @@ The MINI Lab at Weill Cornell Medical College leverages artificial intelligence 
 
   <div class="lab-text" markdown="1">
 
-### Research Interests
-
-We are interested in:
 
 1. **Designing cutting-edge AI/ML techniques**, such as self-supervised learning, foundation models, graph-based models, and unbiased learning, for neuroimaging-based analysis.  
 2. **Characterizing normative brain development** from childhood through emerging adulthood, as well as aging trajectories, using longitudinal, data-driven, multi-modal approaches.  
 3. **Investigating disease-related alterations in neurodevelopment and aging**, and identifying neuromarkers for risk assessment, diagnosis, and targeted interventions.
 
   </div>
+</div>
+
+<!-- Dashed line separator -->
+<hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
+
+
+<!-- Third section: Centered logo -->
+<div class="logo-section">
+  <img src="images/lab_logo.png" alt="Lab Logo">
 </div>
