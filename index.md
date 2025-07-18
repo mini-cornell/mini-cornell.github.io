@@ -39,8 +39,7 @@ title: Home
 
 The MINI Lab at Weill Cornell Medical College leverages artificial intelligence to accelerate neuroimaging research. We focus on developing novel machine learning methods to analyze longitudinal and multi-modal neuroimaging, neuropsychological, and clinical data, aiming to uncover brain–behavior relationships and identify biomedical phenotypes of neurological and psychiatric conditions.
 
-<!-- Full-width dashed separator -->
-<hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
+---
 
 <!-- Full-width section heading -->
 ### Research Interests
@@ -62,8 +61,7 @@ We are broadly interested in the intersectio between AI and preclinical/clinical
   </div>
 </div>
 
-<!-- Full-width dashed separator -->
-<hr style="border: none; border-top: 2px dashed #999; margin: 40px 0;" />
+---
 
 <!-- Third section: Centered logo -->
 <div class="logo-section">
