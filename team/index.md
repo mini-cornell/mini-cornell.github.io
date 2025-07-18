@@ -8,19 +8,15 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 <!-- Current team members -->
-## Principal Investigator
 {% include list.html data="members" component="portrait" filters="role: pi,alumni:false" %}
 <br><br>
 
-## Postdoctoral Fellows
 {% include list.html data="members" component="portrait" filters="role: postdoc,alumni:false" %}
 <br><br>
 
-## PhD Students
 {% include list.html data="members" component="portrait" filters="role: phd,alumni:false" %}
 <br><br>
 
-## Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad,alumni:false" %}
 <br><br>
 
