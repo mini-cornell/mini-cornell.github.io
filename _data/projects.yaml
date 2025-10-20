@@ -1,3 +1,12 @@
+- title: Forbes
+  subtitle: Lance Eliot, Oct 2025
+  group: media
+  image: https://specials-images.forbesimg.com/imageserve/658d15320f4e5dbb60512a07/They-talk-the-talk-and-code-the-code/960x0.jpg?cropX1=80&cropX2=1091&cropY1=0&cropY2=757
+  link: https://www.forbes.com/sites/lanceeliot/2025/10/17/stanford-smartly-using-ai-generated-synthetic-data-to-map-and-unlock-the-mysteries-of-the-brain/
+  description: Stanford Smartly Using AI-Generated Synthetic Data To Map And Unlock The Mysteries Of The Brain
+  tags:
+    - media
+    
 - title: Newswise
   subtitle: Research Society on Alcohol, Jun 2025
   group: media
