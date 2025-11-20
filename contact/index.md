@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Open Positions
 
+[**I'm currently not hiring until 2026 Fall, but unpaid research positions are available**]
+
 Please send a CV and a brief description of research interests to Dr. Qingyu Zhao regarding opennings (postdoc, PhD, graduate, or undergraudate research assistant).
 
 Trainees are expected to conduct NIH-funded research on neurodevelopment, aging, and mental disorders. Successful candidates will develop machine learning and computational tools for the analysis of longitudinal and multimodal brain MRI data and neuropsychological measurements. Candidates will work closely with computer scientists, clinicians, and neuroscientists in a multidisciplinary research setting, in a top-ranked department at a world-class, Ivy-league institution.
