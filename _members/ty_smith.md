@@ -1,8 +1,8 @@
 ---
 name: Ty Smith
 image: images/ty_smith.jpeg
-role: undergrad
-alumni: rassit
+role: rassit
+alumni: false
 links:
   email: tzs5@cornell.edu
 ---
