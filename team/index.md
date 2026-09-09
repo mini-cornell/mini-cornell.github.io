@@ -17,7 +17,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd,alumni:false" %}
 <br><br>
 
-{% include list.html data="members" component="portrait" filters="role: undergrad,alumni:false" %}
+{% include list.html data="members" component="portrait" filters="role: rassit,alumni:false" %}
 <br><br>
 
 
