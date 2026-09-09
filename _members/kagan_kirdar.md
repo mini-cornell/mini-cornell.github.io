@@ -1,7 +1,7 @@
 ---
 name: Kağan Kirdar
 image: images/kagan_kirdar.jpeg
-role: undergrad
+role: rassit
 alumni: false
 links:
   email: kaankirdar05@gmail.com
