@@ -1,6 +1,6 @@
 ---
 name: Emily Joyce
-image: images/emily_joyce.jpg
+image: images/ty_smith.jpeg
 role: rassit
 alumni: false
 links:
